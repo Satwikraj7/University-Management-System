@@ -1,0 +1,1 @@
+Developed a University Management System using C++ and MySQL, applying OOP principles for managing student data with features like CRUD operations, database connectivity, secure SQL queries, and a user-friendly interface. Enhanced system performance with optimized queries and implemented input validation and prepared statements for improved security.
